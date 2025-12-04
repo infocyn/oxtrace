@@ -124,7 +124,7 @@ By using OxTrace, you agree that:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/oxtrace.git
+git clone https://github.com/infocyn/oxtrace.git
 cd oxtrace
 
 # 2️⃣ Install dependencies
@@ -1184,5 +1184,6 @@ Special thanks to:
 ![Open Source](https://img.shields.io/badge/Open-Source-orange?style=for-the-badge)
 
 </div>
+
 
 </div>
