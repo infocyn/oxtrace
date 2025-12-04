@@ -1046,7 +1046,7 @@ git push origin feature/amazing-scanner
 
 ## 📝 Changelog
 
-### Version 5.0.0 (2024-01-15) - Current
+### Version 5.0.0 (2025-12-5) - Current
 
 #### ✨ New Features
 - 🎨 Real-time display with live dashboard
@@ -1187,4 +1187,5 @@ Special thanks to:
 
 
 </div>
+
 
