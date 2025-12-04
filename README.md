@@ -986,7 +986,7 @@ We welcome contributions from the security community!
 
 ```bash
 # 1. Fork the repository
-git clone https://github.com/YOUR-USERNAME/oxtrace.git
+git clone https://github.com/infocyn/oxtrace.git
 
 # 2. Create feature branch
 git checkout -b feature/amazing-scanner
@@ -1187,3 +1187,4 @@ Special thanks to:
 
 
 </div>
+
